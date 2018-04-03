@@ -1,15 +1,11 @@
 # Debriefing
 
-> Explique en quelques mots à quoi sert ton application.
+Application to visualize the wealth tax in France and predict for the next year
 
 ## Application
 
-> Ajouter ici un screenshot, une vidéo ou un lien vers ton application.
+
 
 ## Outils
 
-> Liste ici les outils que tu a utilisé.
-> Tu peux aussi dire rapidement a quoi ils servent et pourquoi tu les utilisent
-
-> - React (Framework JS)
-> - ...
+> R Shiny was used
