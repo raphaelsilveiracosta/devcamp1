@@ -8,4 +8,4 @@ Application to visualize the wealth tax in France and predict for the next year
 
 ## Outils
 
-> R Shiny was used
+> R & RShiny were used
