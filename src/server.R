@@ -14,7 +14,7 @@ library(readxl)
 # Define server logic required to draw a histogram
 shinyServer(function(input, output, session) {
    
-  api_key <- "AIzaSyDPy7XPAfwicFNAhMWOqGZD0Kqqht6o_bQ"
+  api_key <- "api_key"
   googleway::set_key(api_key)
   
   lat_lon <- read.csv(file = "../dataset/Lat_long.csv", sep = ";", dec = ".") %>% unique()
